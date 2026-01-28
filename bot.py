@@ -1,3 +1,7 @@
+# Don't Remove Credit @DVITTALBOTZ
+# Subscribe Telegram Channel For Amazing Bot @DVITTALBOTZ
+# Ask Doubt on telegram @DVITTALBOTZ_Disscussion
+
 import asyncio
 import sys
 from datetime import datetime
@@ -12,7 +16,7 @@ from aiohttp import web
 pyrogram.utils.MIN_CHANNEL_ID = -1002449417637
 
 name = """
-Link share bot started ✨ Credit:- @RexBots_Official
+Link share bot started ✨ Credit:- @DVITTALBOTZ 
 """
 
 class Bot(Client):
@@ -40,14 +44,14 @@ class Bot(Client):
                     caption=(
                         "**I ʀᴇsᴛᴀʀᴛᴇᴅ ᴀɢᴀɪɴ !**"),
                     reply_markup=InlineKeyboardMarkup(
-                        [[InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/RexBots_Official")]]
+                        [[InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/DVITTALBOTZ")]]
                     )
                 )
         except Exception as e:
             self.LOGGER(__name__).warning(f"Failed to send bot start message in {DATABASE_CHANNEL}: {e}")
 
         self.set_parse_mode(ParseMode.HTML)
-        self.LOGGER(__name__).info("Wew...Bot is running...⚡  Credit:- @RexBots_Official")
+        self.LOGGER(__name__).info("Wew...Bot is running...⚡  Credit:- @DVITTALBOTZ")
         self.LOGGER(__name__).info(f"{name}")
         self.username = usr_bot_me.username
 
