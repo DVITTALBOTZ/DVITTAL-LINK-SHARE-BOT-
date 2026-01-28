@@ -7,7 +7,7 @@
     "sharing"
   ],
   "repository": "https://github.com/",
-  "logo": "https://ibb.co/mVkSySr7",
+  "logo": "https://ibb.co/v4FGx1Rm",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
