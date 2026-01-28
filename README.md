@@ -4,7 +4,7 @@
   <img src="assets/img.jpg" alt="Bot Channels" width="1920"/>
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=THIS+IS+A+ADVANCE+LINK+SHARE!+BOT;CREATED+BY+REX+BOTS)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=THIS+IS+A+ADVANCE+DVITTAL+LINK+SHARE!+BOT;CREATED+BY+DVITTALBOTZ)</p>
 </p>
 
 <b><i>A powerful and dynamic Telegram bot designed to share links from specific channels, protecting them from copyright issues. It features a fully interactive, button-based UI and can be configured dynamically by the owner.</i></b>
@@ -48,7 +48,7 @@ _You can easily deploy this bot yourself. Follow the steps below._
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/abhinai2244/LINK-SHAREBOT.git
+    git clone https://github.com/DVITTALBOTZ/DVITTAL-LINK-SHARE-BOT-.git
     cd LINK-SHAREBOT
     ```
 
@@ -83,11 +83,11 @@ _You can easily deploy this bot yourself. Follow the steps below._
 
 _This bot was made possible with the help and support of the following individuals:_
 
--   **[ABHINAI](https://t.me/about_zani)**
--   **[ABHINAV](https://t.me/adityaabhinav)**
--   **[MASTER](https://t.me/V_Sbotmaker)**
+-   **[DVITTALBOTZI](https://t.me/dvittalbotz)**
+-   **[𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗠𝗲](http://t.me/dvittalbotz?direct)**
+-   **[𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗠𝗲](http://t.me/dvittalbotz?direct)**
 
-- **[REx BOTs](https://t.me/RexBots_Official)**
+- **[DVITTALBOTZ](https://t.me/dvittalbotz)**
 
-- **Base Repo**:- **[CodeFlix](https://github.com/Codeflix-Bots/Links-Share-Bot.git)**
+- **𝗕𝗮𝘀𝗲 𝗥𝗲𝗽𝗼**:- **[CodeFlix](https://github.com/DVITTALBOTZ/DVITTAL-LINK-SHARE-BOT-.git)**
 ---
