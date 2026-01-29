@@ -10,14 +10,14 @@
 <b><i>A powerful and dynamic Telegram bot designed to share links from specific channels, protecting them from copyright issues. It features a fully interactive, button-based UI and can be configured dynamically by the owner.</i></b>
 
 ---
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 # <u>✅ DᴠɪᴛᴛᴀL Lɪɴᴋ sʜᴀʀᴇ Dᴇᴍᴏ Bᴏᴛ 👇👇</u>
 
  **[𝗗𝗲𝗺𝗼 𝗕𝗼𝘁](https://t.me/DVITTAL_LINK_SHARE_Bot)**
 
 
 [![Telegram](https://img.shields.io/badge/TELEGRAM-Demo%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DVITTAL_LINK_SHARE_Bot)
- 
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Features
 
