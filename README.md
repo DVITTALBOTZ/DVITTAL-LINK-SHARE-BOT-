@@ -11,9 +11,12 @@
 
 ---
 
-# <u>DVITTAL Lɪɴᴋ sʜᴀʀᴇ ʙᴏᴛ DEMO</u>
+# <u>✅ DVITTAL Lɪɴᴋ sʜᴀʀᴇ ʙᴏᴛ DEMO👇👇</u>
 
  **[𝗗𝗲𝗺𝗼 𝗕𝗼𝘁](https://t.me/DVITTAL_LINK_SHARE_Bot)**
+
+
+[![Telegram](https://img.shields.io/badge/TELEGRAM-Demo%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DVITTAL_LINK_SHARE_Bot)
  
 
 ## 🚀 Features
