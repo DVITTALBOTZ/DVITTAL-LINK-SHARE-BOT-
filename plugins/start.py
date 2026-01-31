@@ -172,7 +172,7 @@ async def not_joined(client: Client, message: Message):
             buttons.append([
                 InlineKeyboardButton(
                     text='• Joined•',
-                    url=f"http://t.me/{temp.U_NAME}?start={message.command[1]}"
+                    url=f"https://t.me/{BOT_USERNAME}?start={message.command[1]}"
                 )
             ])
         except IndexError:
