@@ -25,7 +25,7 @@ HELP_TXT =  os.environ.get("HELP_MESSAGE", "⁉️ Hᴇʟʟᴏ {mention} ~\n\n <
 FSUB_PIC = os.environ.get("FSUB_PIC", "https://ibb.co/jPPStQw9")
 FSUB_LINK_EXPIRY = 300
 LOG_FILE_NAME = "DVITTALBOTZ.txt"
-DATABASE_CHANNEL = int(os.environ.get("DATABASE_CHANNEL", ""))
+DATABASE_CHANNEL = int(os.environ.get("DATABASE_CHANNEL", "-1002395841344"))
 
 logging.basicConfig(
     level=logging.INFO,
